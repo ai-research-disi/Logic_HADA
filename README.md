@@ -68,4 +68,5 @@ each rule) to be equal to 1.
 3. The sum over i of `{ALG}_LogRul_{i}_THEN_z{j}` must be equal to 1, so only 1 logic rule can be true at each time.
 4. The user-defined constraints.
 
-
+# Author 
+* **Eleonora Misino** ([eleonora.misino2@unibo.it](mailto:eleonora.misino2@unibo.it))
